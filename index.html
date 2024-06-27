@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Broken Skull Mods</title>
+    <base href="/" />
+    <link rel="stylesheet" href="css/app.css" />
+    <!-- bf6_only.css provide blazor foundation 6 overrides and custom classes -->
+    <!-- This will include Foundation 6 and Blazor Foundation -->
+    <link href="/_content/OpenCodeDev.Blazor.Foundation/css/bf6_standard.css" rel="stylesheet" />
+
+    <!-- if you prefer using official Zurb Foundation CSS make sure to select the full feature and include it before bf6_only.css -->
+    <!-- Include MDI for maximum component support -->
+    <link href="https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css" rel="stylesheet" />
+
+    <!-- If you add any scoped CSS files, uncomment the following to load them
+    <link href="Broken.Skull.Mods.Arma3.styles.css" rel="stylesheet" /> -->
+    <link href="manifest.webmanifest" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+    <!-- bf6_only.js = JQuery, What-Input and Blazor Foundation excluding Foundation 6 -->
+    <!-- bf6_standard.js (Recommended) = JQuery, What-Input, Foundation 6 and Blazor Foundation -->
+    <script src="/_content/OpenCodeDev.Blazor.Foundation/js/bf6_standard.js"></script>
+</body>
+
+</html>
