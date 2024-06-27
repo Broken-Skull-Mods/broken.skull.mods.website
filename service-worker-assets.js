@@ -29,6 +29,10 @@
       "url": "manifest.webmanifest"
     },
     {
+      "hash": "sha256-EK3OGnjQ+UFZOJO\/yRvSd81XlthK\/gUbvRBhkcEYc6s=",
+      "url": "service-worker-assets.js"
+    },
+    {
       "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
       "url": "_framework\/blazor.webassembly.js"
     },
@@ -61,11 +65,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-DxdZpcecEuOdE1R4uOYIfrlZW\/ow+CKyrqA8LC4GWKc=",
+      "hash": "sha256-sMfUDWUauztDKggQq\/fdlt54KtIPhnVLJWv9UruaAqE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-YiJPYxplcgzeXTKCM+8BoC864S+FbmojjrnGVQvTSQI=",
+      "hash": "sha256-TMI6cqHRkUOI5vFZqnhHs3oJFJ2XPxgTpE6qIunLMp4=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
@@ -393,5 +397,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "TsU554C5"
+  "version": "weIm+cMp"
 };
