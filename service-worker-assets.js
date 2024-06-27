@@ -13,7 +13,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-LaCnutoAdwR411kHCchy\/hZteWO\/b7zHtDnVjtBXZ2I=",
+      "hash": "sha256-QbjNFgpNdtL0afbLyJ9KxIUlWgkKwVjYd9zPDk44R58=",
       "url": "index.html"
     },
     {
@@ -31,6 +31,10 @@
     {
       "hash": "sha256-EK3OGnjQ+UFZOJO\/yRvSd81XlthK\/gUbvRBhkcEYc6s=",
       "url": "service-worker-assets.js"
+    },
+    {
+      "hash": "sha256-SPZmLHg67ALJfcZCfJBqHD5Xn9wKY\/zFL5hUAH72eg0=",
+      "url": "socialmedia.jpg"
     },
     {
       "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
@@ -397,5 +401,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "cElcfgFT"
+  "version": "WZ\/0T0GE"
 };
