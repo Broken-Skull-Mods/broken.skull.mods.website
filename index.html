@@ -14,7 +14,9 @@
     <!-- if you prefer using official Zurb Foundation CSS make sure to select the full feature and include it before bf6_only.css -->
     <!-- Include MDI for maximum component support -->
     <link href="https://cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css" rel="stylesheet" />
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/sqf.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/atom-one-dark.min.css">
     <!-- If you add any scoped CSS files, uncomment the following to load them
     <link href="Broken.Skull.Mods.Arma3.styles.css" rel="stylesheet" /> -->
     <link href="manifest.webmanifest" rel="manifest" />
@@ -48,6 +50,9 @@
     <!-- bf6_only.js = JQuery, What-Input and Blazor Foundation excluding Foundation 6 -->
     <!-- bf6_standard.js (Recommended) = JQuery, What-Input, Foundation 6 and Blazor Foundation -->
     <script src="/_content/OpenCodeDev.Blazor.Foundation/js/bf6_standard.js"></script>
+    <script>
+        hljs.configure({ tabReplace: '    ' });
+    </script>
 </body>
 
 </html>
