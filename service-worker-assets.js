@@ -21,7 +21,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-SoC1IG1AsiZ4arkNT29c2IjTV+tmfBlGc8wIQjb9Sn4=",
+      "hash": "sha256-8hjZDyfd5qIRsTNishS9UGUJPRiX3biY\/1uXf4ijONs=",
       "url": "index.html"
     },
     {
@@ -445,5 +445,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "aNCYU1Q9"
+  "version": "JUSHyWHZ"
 };
