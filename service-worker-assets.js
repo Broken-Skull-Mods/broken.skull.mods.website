@@ -5,15 +5,23 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-jfZFzHnAZ4d4ztJIPtb+DBzxQt9cznkO\/nqn875yNjw=",
+      "url": "icon-128.png"
+    },
+    {
+      "hash": "sha256-BD2BWh7I42tPvPPKu6vytJvCrcmbItkjTcLDdEcykuk=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-enkhT11nvvLHqAInF3F9Js9Aag2apjHs3uDfTANIZoc=",
+      "url": "icon-256.png"
+    },
+    {
+      "hash": "sha256-PNopR6qbMQLzfLr0TIOF\/eL1OLPZ2pFr97+QDZqUu9E=",
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-77BHo1yzhx7PG3jdD0sDotYDkyQdnVWSb+klUNQNDKk=",
+      "hash": "sha256-SoC1IG1AsiZ4arkNT29c2IjTV+tmfBlGc8wIQjb9Sn4=",
       "url": "index.html"
     },
     {
@@ -29,7 +37,7 @@
       "url": "logo_bsm_2.png"
     },
     {
-      "hash": "sha256-nbSFcEdP+NdFw0tGWPj0r+n1lq9nPM65\/M58XJe0PcU=",
+      "hash": "sha256-IxOID1HDPZYa3tbeWG7a1GLuIc81Clk+uJVd3CjAnvk=",
       "url": "manifest.webmanifest"
     },
     {
@@ -437,5 +445,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "8a8lgVuj"
+  "version": "aNCYU1Q9"
 };
