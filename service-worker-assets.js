@@ -17,6 +17,10 @@
       "url": "index.html"
     },
     {
+      "hash": "sha256-hg9Kokj+azdiobjHak2VUB9BIRF3ZzZ5VDM8RAW+jtg=",
+      "url": "logo_bs_2m.ico"
+    },
+    {
       "hash": "sha256-6kVPN9ld9n1l8I7MrAaUmxnoITnRzw1M2ChFjUWQatU=",
       "url": "logo_bs_2m.png"
     },
@@ -69,11 +73,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-+1BAdK0Eyv3SZFud8xeMXcW5eBlWS28dW5vgJpUND6o=",
+      "hash": "sha256-IP4aR00OlShKVC+46A3\/\/ecEuEQrq2\/EtGnbd1xOH3Q=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-\/5fK0FoReqdeemVt5rhCcnze1gYLhIwm6kg0ehCW2RM=",
+      "hash": "sha256-p8FHoLjyqLRx8pSWiFPdWYNm+L0dsgPAcPITEKiITBk=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
@@ -433,5 +437,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "MNRzBDgC"
+  "version": "8a8lgVuj"
 };
