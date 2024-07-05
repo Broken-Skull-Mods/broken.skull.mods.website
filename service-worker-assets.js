@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-rDczhU+EGIVHzJ9wnwNlqTNGlnzVhbCTQCy4gw153iU=",
+      "hash": "sha256-zq8nI7xMLYw13hMzz622jMcGXku3B5VVSiwyKl9lPA0=",
       "url": "css\/app.css"
     },
     {
@@ -81,11 +81,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-q7HZ\/ZyJRzfop4Mn5JlJNqNncYvGRasRyZgZiu8lC6E=",
+      "hash": "sha256-2ocDy\/vi2VcD48HTQtdiAau078rnq\/Xu1TojAlAKmQk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-7fmOwI+NScOYDCZUaFjDicfLxmQNbnGLepbqOq4t70c=",
+      "hash": "sha256-nXqJFDmtDFB+JSdkSSUsMyHk\/blCJ6ojCTSz1E\/eVNc=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
@@ -161,7 +161,7 @@
       "url": "_framework\/OpenCodeDev.Blazor.Foundation.Plugins.HighlightCS.wasm"
     },
     {
-      "hash": "sha256-pu1Z\/j8uUQh4ASamDDakRcl+86BDEByjcPP\/xo5wKmA=",
+      "hash": "sha256-YxRTEssOiDd1zRuVMhiVlnQRKMSb4cmwAD2uij5EaCY=",
       "url": "_framework\/OpenCodeDev.Blazor.Foundation.wasm"
     },
     {
@@ -337,7 +337,7 @@
       "url": "_framework\/System.Text.Encodings.Web.wasm"
     },
     {
-      "hash": "sha256-ygGoVXc5q0auSrmluUkU+pv653cNGvYO5RFWny0G0Cw=",
+      "hash": "sha256-uwsS9eJI5EwUr9dAIb6cfRJoSMhJrBJifGrHmx4Pn90=",
       "url": "_framework\/System.Text.Json.wasm"
     },
     {
@@ -445,5 +445,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "+vX\/ZKkc"
+  "version": "acKAOV1p"
 };
