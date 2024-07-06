@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-zq8nI7xMLYw13hMzz622jMcGXku3B5VVSiwyKl9lPA0=",
+      "hash": "sha256-vsda11gQpgf8mm+iY97gryWQK6RLl0wt5E3bxUAzOhc=",
       "url": "css\/app.css"
     },
     {
@@ -81,11 +81,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-2ocDy\/vi2VcD48HTQtdiAau078rnq\/Xu1TojAlAKmQk=",
+      "hash": "sha256-qzssvz8QcA4GURaYB3NSC9KHaIKamVACAd02dbAGlU8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-nXqJFDmtDFB+JSdkSSUsMyHk\/blCJ6ojCTSz1E\/eVNc=",
+      "hash": "sha256-oBnJ124nfx70CvLPh8GBq2cgEoO81cvYNaw5W57YfNk=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
@@ -163,6 +163,10 @@
     {
       "hash": "sha256-YxRTEssOiDd1zRuVMhiVlnQRKMSb4cmwAD2uij5EaCY=",
       "url": "_framework\/OpenCodeDev.Blazor.Foundation.wasm"
+    },
+    {
+      "hash": "sha256-EROguEzkUIWLM4ec8V9lZZgV\/wDo7qQIQOSCF0SU+S4=",
+      "url": "_framework\/OpenCodeDev.Reflection.Helper.wasm"
     },
     {
       "hash": "sha256-pAq4NV\/o\/WEEMyQMaH7Y2nAlBshWiEOiWjhyzcpAurI=",
@@ -261,7 +265,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-Xk7c3kcLca5aMbmLyjU807WtPnSOGJpORBYzrsv9XcY=",
+      "hash": "sha256-85jgoqoADgo0vCp0NpSHC8l0MTmSHxw2o6KKyNXhnCs=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -317,11 +321,11 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-QdLl\/SGmiQTPwWvH6ZDLJD6Ky3pILlhxoxtND+Vfgd8=",
+      "hash": "sha256-QjiZewcpB2I0JQwoFBP+Kkzku5BsMpmlu77VeK+iPsY=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
-      "hash": "sha256-gRWGPEab7M+n+lrzfHuZObCBpsZLVc6UIV9pMyBjq18=",
+      "hash": "sha256-1xsv04RC\/yREhwkt1VCYuijqo8C7l77TYl2G7Zpij7o=",
       "url": "_framework\/System.Security.Cryptography.wasm"
     },
     {
@@ -445,5 +449,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "acKAOV1p"
+  "version": "mS24kLC5"
 };
