@@ -81,11 +81,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-8LlMbkAOMArI3zLOSQKdUGrsGEvMrpYlljniSHcDvm8=",
+      "hash": "sha256-GQem2RZWH6d5EAME7TKtt8j2joa956WLm9RsYR4vZTQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-foXQaOz+pO9em6HBCVAoRAw7ljo3XBQiwg7Iwq3LkMc=",
+      "hash": "sha256-GpEgN61OM\/Zi6t3hFvt9bPqZoZUXdxwKjakUzSx\/NhM=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
@@ -449,5 +449,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "6m5Akd0b"
+  "version": "YmBIbbrz"
 };
