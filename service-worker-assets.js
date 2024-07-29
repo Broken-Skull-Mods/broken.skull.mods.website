@@ -5,6 +5,34 @@
       "url": "css\/app.css"
     },
     {
+      "hash": "sha256-5MVT5nFfJ27fijyQ3Bmvu5snKBwSfller7IyP6U8G9E=",
+      "url": "games\/a3.jpg"
+    },
+    {
+      "hash": "sha256-qgRAlRk5VsKhJtyiDuRd+kD\/in2I5hh8SPhaSLRk\/\/g=",
+      "url": "games\/barotrauma.jpg"
+    },
+    {
+      "hash": "sha256-EmwNeNO74achKYix5x74+SqlZCaU5wdZE2ZHrD+Nfh0=",
+      "url": "games\/dbd.jpg"
+    },
+    {
+      "hash": "sha256-3wW9kp6OO10+e+1qBLYiFzRWATw009sPJKzPD388FaU=",
+      "url": "games\/destiny.jpg"
+    },
+    {
+      "hash": "sha256-G+cqHQXB4k1PuK7VYQuhtS\/qa\/h4ql\/ZXpiBy3IhJuY=",
+      "url": "games\/eso.jpg"
+    },
+    {
+      "hash": "sha256-e69cRs6\/BQclmRxI+UrsCDLDath8HWXRH6HYVkvKr9w=",
+      "url": "games\/star_citizen.jpg"
+    },
+    {
+      "hash": "sha256-eosl37Kogb+echo2DXIiMSlXeHugmBRuWtv8NbhnQk0=",
+      "url": "games\/wow335.jpg"
+    },
+    {
       "hash": "sha256-jfZFzHnAZ4d4ztJIPtb+DBzxQt9cznkO\/nqn875yNjw=",
       "url": "icon-128.png"
     },
@@ -133,11 +161,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-g8l3KXj6GfzDWY82ke10ttsJSB6WbyYSLNYcXby8\/hE=",
+      "hash": "sha256-DUjLa4X9W9Yw9mggjhzvGRmIa29MKm0QJxEXlQfgwjU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-hYoO2eGrPtVaiR+Z3TSYKD81u5jCFQLMlfxTOoHLuz0=",
+      "hash": "sha256-4h1zv8IRe7+VUOsvtH93oPmzcIR49sVMoc53dGA6pS0=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
@@ -533,5 +561,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "j51VE3N7"
+  "version": "qzvDZHUQ"
 };
