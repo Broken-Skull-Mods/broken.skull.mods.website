@@ -89,7 +89,7 @@
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-AKIq1C1Rurx5EjSVvH7fzL94+YPx2qujxroSW+tGPNg=",
+      "hash": "sha256-6O4WJRfianz0S4Uq5ABF\/MfOLBJgcWPb25atfhge3XI=",
       "url": "menu_md.json"
     },
     {
@@ -533,5 +533,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "lWb3zZb2"
+  "version": "j51VE3N7"
 };
