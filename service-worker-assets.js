@@ -161,15 +161,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-6v0nBt2SSlIk0OSxksUp7nzGpdc0y8hjh3BIXJViegE=",
+      "hash": "sha256-o6zo+xGTKv6vAS0p4qrF+hGdA\/06\/pVbkFlpIjWUI\/I=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-eByE+o2pfrp6j4HY0XgF+oBxNCdy\/gdam1WojGnkSlY=",
+      "hash": "sha256-\/L\/HJo5HyOObyb0FY\/HhhEnnSjhH9NvH2kOKlXVbFmk=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
-      "hash": "sha256-sxPwUgo3mIsm8H5BRVoW\/zPN9JVO7O4Lmyzk\/xE\/\/8w=",
+      "hash": "sha256-lU6R26JhVl1YzBrNYm0uD+YEi6Glmmc9tisu7Cvj7+w=",
       "url": "_framework\/Broken.Skull.Mods.Models.wasm"
     },
     {
@@ -561,5 +561,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "5IWBaFsC"
+  "version": "Qg22qSDU"
 };
