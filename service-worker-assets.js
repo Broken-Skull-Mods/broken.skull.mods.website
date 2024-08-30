@@ -13,6 +13,10 @@
       "url": "games\/barotrauma.jpg"
     },
     {
+      "hash": "sha256-xutVx1Y+OEMknCh+LJIwU6JN21wK+YIiJMIh8ZluJhU=",
+      "url": "games\/conan_exile.jpg"
+    },
+    {
       "hash": "sha256-EmwNeNO74achKYix5x74+SqlZCaU5wdZE2ZHrD+Nfh0=",
       "url": "games\/dbd.jpg"
     },
@@ -23,6 +27,10 @@
     {
       "hash": "sha256-G+cqHQXB4k1PuK7VYQuhtS\/qa\/h4ql\/ZXpiBy3IhJuY=",
       "url": "games\/eso.jpg"
+    },
+    {
+      "hash": "sha256-E27ej5QGAbwWZUwJpeAkvgv3vb2doGfbyJAgMjrQ\/P0=",
+      "url": "games\/pz.jpg"
     },
     {
       "hash": "sha256-e69cRs6\/BQclmRxI+UrsCDLDath8HWXRH6HYVkvKr9w=",
@@ -161,15 +169,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-o6zo+xGTKv6vAS0p4qrF+hGdA\/06\/pVbkFlpIjWUI\/I=",
+      "hash": "sha256-+otG95FavSg5VRqCIscjpKLlux5IdwZAkgFmNNfXpBo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-\/L\/HJo5HyOObyb0FY\/HhhEnnSjhH9NvH2kOKlXVbFmk=",
+      "hash": "sha256-EFr3WGhSlKYdwIQp3ktZwQIw0YYm5tj+iuBPKWoZnxY=",
       "url": "_framework\/Broken.Skull.Mods.Arma3.wasm"
     },
     {
-      "hash": "sha256-lU6R26JhVl1YzBrNYm0uD+YEi6Glmmc9tisu7Cvj7+w=",
+      "hash": "sha256-g1DygQS7F7FbLnFt8+QeaQj9dB+zThbZ8JwVgL+3Ly4=",
       "url": "_framework\/Broken.Skull.Mods.Models.wasm"
     },
     {
@@ -561,5 +569,5 @@
       "url": "_content\/OpenCodeDev.Blazor.Foundation\/js\/what-input.js"
     }
   ],
-  "version": "Qg22qSDU"
+  "version": "+zHF02Wb"
 };
