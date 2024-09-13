@@ -106,11 +106,6 @@ label {
         content: var(--blazor-load-percentage-text, "Loading");
     }
 
-code {
-    color: #c02d76;
-}
-
-
 
 .doc-menu .accordion-title {
     border: none !important;
