@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Broken.Skull.Mods.Arma3",
   "resources": {
-    "hash": "sha256-6kpgw3JwWBwCPDytxvC4Y5e7ERWzxGtDMXImAgDjgdE=",
+    "hash": "sha256-ZJebFisBApkTJnrBzQZiakzrLNmw4354cdo5Yt/Wljw=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.4krohermv1.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -17,8 +17,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Broken.Skull.Mods.Arma3.wasm": "sha256-BJRAWGGR3l0DoHEMRO1SEFbza3C1Nio2cxHKSjv9N5U=",
-      "Broken.Skull.Mods.Models.wasm": "sha256-g1DygQS7F7FbLnFt8+QeaQj9dB+zThbZ8JwVgL+3Ly4=",
+      "Broken.Skull.Mods.Arma3.wasm": "sha256-MQLNCpCvU79YqP9h2TgVQAgWvRWFch/XypIlxkPutFI=",
+      "Broken.Skull.Mods.Models.wasm": "sha256-wWLOoP3+jRWsCZ+V+Bi+P27RZebApE47IrZIQxk7wFk=",
       "CommonMark.wasm": "sha256-GqSp6M6YOHtyz/8YBieWOSwKvy7dfRbuDaP6e7GwVyY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-e8TOWn6vjhU1fBYkCc30nEOmWwj+mjJww36ZS2rJFB0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-ksgUds5djQkwYni0AAyF34gqaIiQttNYROd91PEpRFE=",
